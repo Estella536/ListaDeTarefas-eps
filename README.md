@@ -1,7 +1,7 @@
 # Lista De Tarefas 
 A Lista de Tarefas é um site simples e fácil de usar. Ele tem como objetivo facilitar a vida do usuário na hora de organizar as tarefas que precisa executar. Ele oferece uma interface monocromática e simples.
 
-### Funcionalidades:
+## Funcionalidades:
 
 -Barra para criar a tarefa;
 -Botão de adicionar tarefa;
@@ -9,7 +9,7 @@ A Lista de Tarefas é um site simples e fácil de usar. Ele tem como objetivo fa
 -Botão para remover uma tarefa específica;
 -Botão para remover todas as tarefas.
 
-### Manual do Usuário:
+## Manual do Usuário:
 
 1.Para poder utilizar a lista de tarefas você vai seguir os seguintes passos:
 2.Abra a página das extensões do Chrome;
