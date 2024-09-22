@@ -26,5 +26,11 @@ ListaDeTarefas/
 3. Se quiser pagar, basta ir na lixiera do lado dessa tarefa;
 4. Se quiser apagar todas as tarefas, basta ir na lixeira do cnato direito do título.
 
+### Melhorias Futuras:
+
++ Incluir a função de poder colocar as tarefas em pastas;
++ Incluir o login do usuário;
++ Incluir as notificações para lembrar das tarefas pendentes.
+
 
 
