@@ -12,6 +12,7 @@ A Lista de Tarefas é um site simples e fácil de usar. Ele tem como objetivo fa
 ### Estrutura do projeto:
 
 ListaDeTarefas/
+│  
 │     
 ├── index.html         
 ├── index.js          
