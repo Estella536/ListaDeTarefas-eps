@@ -12,13 +12,19 @@ A Lista de Tarefas é um site simples e fácil de usar. Ele tem como objetivo fa
 ### Estrutura do projeto:
 
 ListaDeTarefas/
-
 │  
 │     
 ├── index.html         
 ├── index.js          
 ├── styles.css         
 └── README.md  
+
+### Como Usar:
+
+1. Crie uma nova tarefa;
+2. Adicione a tarefa;
+3. Se quiser pagar, basta ir na lixiera do lado dessa tarefa;
+4. Se quiser apagar todas as tarefas, basta ir na lixeira do cnato direito do título.
 
 
 
